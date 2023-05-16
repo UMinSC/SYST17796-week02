@@ -9,6 +9,7 @@ package arraydemo;
  * @author umin
  */
 public class Student {
+    // added first comment
     private String studentID;
     private String studentName;
 
