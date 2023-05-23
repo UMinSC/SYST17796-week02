@@ -10,6 +10,7 @@ package arraydemo;
  */
 public class Student {
     // added first comment
+    // added comment for fetch+merge
     private String studentID;
     private String studentName;
 
